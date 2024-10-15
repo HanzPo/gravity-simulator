@@ -1,2 +1,2 @@
 # gravity-simulator
-2D Gravity Simulator Built with Pygame
+Two dimensional n-body simulation built with Pygame
